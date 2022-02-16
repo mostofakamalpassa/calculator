@@ -1,0 +1,14 @@
+.main-bg{
+    /* background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    background-repeat: no-repeat; */
+
+    /* background-image: linear-gradient(to bottom, #6bd18a, #00cbb2, #00bfdd, #00aefb, #0095ff, #0096ff, #0097ff, #0098ff, #00b5ff, #00cfff, #00e6fc, #5ffbf1); */
+
+    /* background-image: linear-gradient(to bottom, #727f7f, #607477, #4f6870, #405c6a, #354f64, #314c61, #2d495f, #29465c, #2b4c5b, #32515a, #3b5659, #455a59); */
+    height: 100vh;
+    background-image: linear-gradient(to right top, #2f4059, #253b54, #1b374e, #0e3248, #002e42);
+}
+
+.hover-btn:hover{
+    color:goldenrod;
+}
